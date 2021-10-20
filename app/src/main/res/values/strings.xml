@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Assignment2_6209650479</string>
+    <string name="header">Sales share calculate</string>
+    <string name="sales">Sales</string>
+    <string name="percent">Share percent</string>
+    <string name="sales_minus_shares">Sales (cut off share)</string>
+    <string name="sales_share">Sales share</string>
+    <string name="button">Calculate</string>
+    <string name="history_header">Calcution history</string>
+    <string name="n_sales">Sales</string>
+    <string name="n_percent">Percent</string>
+    <string name="n_salesminus">Balance</string>
+    <string name="n_salesshare">Shares</string>
+    <string name="history_icon">history</string>
+</resources>

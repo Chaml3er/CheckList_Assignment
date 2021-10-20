@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Assignment2_6209650479</string>
+    <string name="header">คำนวณส่วนแบ่งการขาย</string>
+    <string name="sales">ยอดขาย</string>
+    <string name="percent">ร้อยละส่วนแบ่ง</string>
+    <string name="sales_minus_shares">ยอดขายหักส่วนแบ่ง</string>
+    <string name="sales_share">ส่วนแบ่งการขาย</string>
+    <string name="button">คำนวณ</string>
+    <string name="history_header">ประวัติการคำนวณ</string>
+    <string name="n_sales">ยอดขาย</string>
+    <string name="n_percent">ร้อยละ</string>
+    <string name="n_salesminus">ยอดเหลือ</string>
+    <string name="n_salesshare">ส่วนแบ่ง</string>
+    <string name="history_icon">ประวัติ</string>
+</resources>
